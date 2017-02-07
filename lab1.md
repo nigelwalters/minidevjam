@@ -80,3 +80,4 @@ If you see your API calls displayed in the left panel and see a response code of
 Now that you've successfully imported an API specification and used it to create an API Proxy you're ready to add features such as traffic management and security. 
 
 When you're ready, you can get started on [Lab 2 - Traffic Management and Basic Security](lab2.md).
+	

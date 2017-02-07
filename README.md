@@ -23,15 +23,17 @@ Welcome to the Apigee mini hands on DevJam workshop.
 
   Once your account has been created, you need to be added to the Apigee environment we'll be using today. To get added, go to:
 
-## go/AddMeToOrg?id=email@google.com
+## [https://devjam-addmetoorg.appspot.com/](https://devjam-addmetoorg.appspot.com/)
 
-  replacing `email@google.com` with your google email address. This link should add you to the Apigee Edge instance we'll be using today and redirect you to the Apigee Edge UI:
+  ![Image](images/add_me_to_org.png)
+
+  Enter your email address & click on Add me to DevJam Org button. On success, It should add you to the Apigee Edge instance we'll be using today and redirect you to the Apigee Edge UI:
 
   ![Image](images/dashboard.png)
 
-  Once you are successfully in the Apigee Edge UI, make sure you are in the correct Apigee organization. For the 2:15pm session, you should be in demo7. For the 4:15 session you should be in demo19.
-
-  ![Image](images/change-org.png)
+  Once you are successfully in the Apigee Edge UI, make sure you are in the correct Apigee organization. For the session, you should be in demo-au04. 
+  
+  ![Image](images/devjam-org.png)
 
   You are now ready to get started on the labs.
 

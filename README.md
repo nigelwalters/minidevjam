@@ -15,7 +15,7 @@ Welcome to the Apigee mini hands on DevJam workshop.
 
   Select the _Create Account_ option. This will direct you to this registration form:
 
-  ![Image](images/registration-form-goog.png) 
+  ![Image](images/registration-form.png) 
 
   Fill in your information and select _Create account_ to submit your registration information. In a few minutes you will receive an email from Apigee with an email verification link:
 

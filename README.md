@@ -31,7 +31,7 @@ Welcome to the Apigee mini hands on DevJam workshop.
 
   ![Image](images/dashboard.png)
 
-  Once you are successfully in the Apigee Edge UI, make sure you are in the correct Apigee organization. For the session, you should be in demo-au04. 
+  Once you are successfully in the Apigee Edge UI, make sure you are in the correct Apigee organization. For the session, you should be in demo20. 
   
   ![Image](images/devjam-org.png)
 
